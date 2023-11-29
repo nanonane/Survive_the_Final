@@ -1,8 +1,10 @@
 # Fa23期末复习
 
-这是@nanonane本学期期末要考的课程汇总，以及暂拟的复习规划。
-
-欢迎大家提出意见和建议！
+> @nanonane:
+>
+> 这里目前列出了我本学期期末要考的课程汇总，以及暂拟的复习规划。
+>
+> 欢迎大家向其中加入更多课程的相关信息，或是提出意见和建议！
 
 
 
@@ -35,6 +37,8 @@
 
 >@scatyf3：
 >个人找了一些近似的课程的习题，我发现我们这门课程的教学大纲和参考书大部分来自浙江大学的《人工智能：模型与算法》，然后我顺藤摸瓜找到了[它的网课](https://www.icourse163.org/course/ZJU-1003377027)，发现课后有很多选择题可以巩固概念，遂[在csdn里找到了习题全集](https://blog.csdn.net/a66666_/article/details/105123032?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-105123032-blog-124065602.235%5Ev38%5Epc_relevant_default_base3&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-105123032-blog-124065602.235%5Ev38%5Epc_relevant_default_base3&utm_relevant_index=2)，这些选择题供参考
+
+
 
 
 ## 软件工程
