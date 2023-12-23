@@ -26,4 +26,8 @@ Crash Recovery
 
 慢启动算法
 
-课后题有一道年年考，但不知道是哪道（
+课后题有一道年年考，但不知道是哪道👇
+
+问了老师说是这道：（就是只有一个心理学部同学做对的这道题）
+
+![image-20231223130511718](/Users/shiyihang/Library/Application Support/typora-user-images/image-20231223130511718.png)
