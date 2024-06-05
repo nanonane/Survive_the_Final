@@ -35,7 +35,14 @@
 - [ ] 复习SQL语法和**实验**内容
 - [ ] 做一做老师发的模拟题
 
+### 可用资源
+
+- [CSDN 民间mooc习题整理](https://blog.csdn.net/qq_45812711/article/details/120531714)
+- [CSDN 民间北师大mooc笔记](https://blog.csdn.net/lic1697067085/article/details/122471733)
+
 ## 计算机系统导论
 
 <!--TODO-->
+
+
 
