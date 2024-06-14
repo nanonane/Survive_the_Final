@@ -40,6 +40,10 @@
 
 ## 计算机系统导论
 
+### 可用资源
+- [北理工-2020 计算机系统导论期末题](https://github.com/songshangru/BIT-CS-Learning/tree/main/%E5%A4%A7%E4%B8%89/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%AF%BC%E8%AE%BA)
+  - bit疫情时期的网课考试资料，这时候貌似还不是计老师教，但是大抵也有参考价值
+
 ### 考试题型
 
 - **判断题**：10道，20分左右
