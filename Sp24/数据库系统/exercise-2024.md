@@ -111,7 +111,7 @@ $\Pi_{eid}(\sigma_{eeid = '218811011013'}(eeexam)) \cap \Pi_{eid}(\sigma_{eeid =
 ![image-20240614192017450](exercise-2024.assets/image-20240614192017450.png)
 
 1. a
-2. d
+2. c，更严谨的表述是满足a或b，并且b应该是对所有的Di取并集
 
 ![image-20240614194155847](exercise-2024.assets/image-20240614194155847.png)
 
@@ -206,7 +206,7 @@ $\Pi_{eid}(\sigma_{eeid = '218811011013'}(eeexam)) \cap \Pi_{eid}(\sigma_{eeid =
 ![image-20240616204308009](exercise-2024.assets/image-20240616204308009-17185417889151.png)
 
 4. b
-5. b（不太确定是不是c）
+5. c
 6. c, 确保事务执行到一半故障的时候，要么全做要么不做
 
 ![image-20240616205447583](exercise-2024.assets/image-20240616205447583.png)
