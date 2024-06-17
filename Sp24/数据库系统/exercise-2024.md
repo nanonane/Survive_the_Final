@@ -26,7 +26,7 @@ $\Pi_{eid}(\sigma_{eeid = '2899110110888'}(eeexam))$
 
 ![image-20240606121900718](exercise-2024.assets/image-20240606121900718.png)
 
-$\Pi_{eid}(\sigma_{eeid = '218811011013'}(eeexam)) \cup \Pi_{eid}(\sigma_{eeid = '218811011116'}(eeexam))$
+$\Pi_{eid}(\sigma_{eeid = '218811011013'}(eeexam)) \cap \Pi_{eid}(\sigma_{eeid = '218811011116'}(eeexam))$
 
 ![a922ca94ff33a37846af9d7b0be55d8](exercise-2024.assets/a922ca94ff33a37846af9d7b0be55d8.jpg)
 
